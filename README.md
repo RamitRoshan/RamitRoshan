@@ -12,7 +12,7 @@ About me:
 I'm a dedicated Computer Science Engineering student at Chandigarh University, with a keen interest in Programming and devlopment. I'm currently learning and mastering Java Backend. I'm actively seeking a software developer job to apply my skills and gain industry experience. My ultimate goal is to leave a significant mark in the tech industry.
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **Java & Android**
+- 💬 Ask me about **Love ☕coffee as much as I do? Let's talk about how awesome they're! We can code while we have coffee.**
 
 - 📫 How to reach me **ramitroshan777777@gmail.com**
 
