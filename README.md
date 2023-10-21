@@ -18,7 +18,7 @@ I'm a dedicated Computer Science Engineering student at Chandigarh University, w
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ramit-roshan32/](https://www.linkedin.com/in/ramit-roshan32/)
 
-- ⚡ Fun fact: ** I ❤️ to travel a lot, and roam around the world.🙈**
+- ⚡ Fun fact: **I ❤️ to travel a lot, and roam around the world.🙈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
