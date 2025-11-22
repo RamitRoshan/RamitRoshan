@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramitroshan&label=Profile%20views&color=0e75b6&style=flat" alt="ramitroshan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/roshanramit" target="blank"><img src="https://img.shields.io/twitter/follow/roshanramit?logo=twitter&style=for-the-badge" alt="roshanramit" /></a> </p>
+<p align="left"> <a href="https://x.com/RamitRosha10031" target="blank"><img src="https://img.shields.io/twitter/follow/roshanramit?logo=twitter&style=for-the-badge" alt="roshanramit" /></a> </p>
 
 About me:
 
