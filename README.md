@@ -1,6 +1,22 @@
  <!-- ![MasterHead](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8fHww) -->
 <h1 align="center">Hi 👋, I'm Ramit Roshan</h1>
-<h3 align="center">A zealous code craftsman hailing from the vibrant landscapes of India.</h3>
+<!-- <h3 align="center">A zealous code craftsman hailing from the vibrant landscapes of India.</h3> -->
+<h3 align="center">A passionate full-stack developer (MERN stack) crafting scalable and beautiful web applications.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramit-roshan32/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
+  </a>
+
+  <a href="mailto:ramitroshan777777@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="email" />
+  </a>
+
+  <a href="https://wa.me/919798810046" target="blank">
+      <img src="https://img.shields.io/badge/WhatsApp-0F766E?logo=whatsapp&logoColor=white&style=for-the-badge" alt="whatsapp" />
+  </a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramitroshan&label=Profile%20views&color=0e75b6&style=flat" alt="ramitroshan" /> </p>
