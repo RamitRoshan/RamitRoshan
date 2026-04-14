@@ -1,5 +1,12 @@
  <!-- ![MasterHead](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8fHww) -->
-<h1 align="center">Hi 👋, I'm Ramit Roshan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ramit Roshan</h1> -->
+
+<h1 align="center">
+  Hi 👋, I'm Ramit Roshan
+  <a href="https://www.lofibolly.club/" target="_blank">
+    <img width="30" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif" />
+  </a>
+</h1>
 <!-- <h3 align="center">A zealous code craftsman hailing from the vibrant landscapes of India.</h3> -->
 <h3 align="center">A passionate full-stack developer (MERN stack) crafting scalable and beautiful web applications.</h3>
 
@@ -22,18 +29,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramitroshan&label=Profile%20views&color=0e75b6&style=flat" alt="ramitroshan" /> </p>
 
 <p align="left"> <a href="https://x.com/RamitRosha10031" target="blank"><img src="https://img.shields.io/twitter/follow/roshanramit?logo=twitter&style=for-the-badge" alt="roshanramit" /></a> </p>
+ 
+- ✈️ Hire me for freelancing :)
+- 🔭 I’m always trying to grow and learn something new.
 
-About me:
-
-I'm a dedicated Computer Science Engineering student at Chandigarh University, with a keen interest in Programming and devlopment. I'm currently learning and mastering React Js and Java Backend. I'm actively seeking a software developer job to apply my skills and gain industry experience. My ultimate goal is to leave a significant mark in the tech industry.
-- 🌱 I’m currently learning **Data Structure and Algorithm**
-
-- 💬 Ask me about anything: **Love ☕coffee as much as I do? Let's talk about how awesome they're! We can code while we have coffee.**
+- 📫 I share my **90-day coding journey**, software discoveries, and everyday life inconveniences on [Twitter](https://x.com/RamitRosha10031)
+- ⚡ Facts about me: I love listening to [lofi](https://www.lofibolly.club/) beats and groovy 90s tunes, and getting lost on **long drives** with the perfect playlist.
+- 💬 Ask me about anything: If you love ☕ coffee as much as I do, **let’s chat we can even code over a cup.** **I make a great cup!**
 
 - 📫 How to reach me **ramitroshan777777@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ramit-roshan32/](https://www.linkedin.com/in/ramit-roshan32/)
-
 - ⚡ Fun fact: I ❤️ to travel a lot, and roam around the world.🙈
 
 <h3 align="left">Connect with me:</h3>
