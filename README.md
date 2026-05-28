@@ -8,7 +8,8 @@
   </a>
 </h1>
 <!-- <h3 align="center">A zealous code craftsman hailing from the vibrant landscapes of India.</h3> -->
-<h3 align="center">A passionate full-stack developer (MERN stack) crafting scalable and beautiful web applications.</h3>
+<!-- <h3 align="center">A passionate full-stack developer crafting scalable and beautiful web applications.</h3> -->
+<h3 align="center">A passionate full-stack developer building scalable web applications, AI agents, and cross-platform mobile apps with React Native.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramit-roshan32/" target="blank">
